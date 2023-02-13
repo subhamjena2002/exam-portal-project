@@ -1,0 +1,15 @@
+
+.text-center ,.text-heading, .form{
+    text-align: center;
+}
+
+.fullwidth{
+    width: 82% ;
+}
+
+.lastname {
+    margin-left: 20px;
+}
+.buttom-signin{
+     margin-left: 20px;
+}

@@ -1,0 +1,19 @@
+.text-heading {
+    text-align: center;
+}
+.text-center {
+    padding-left: 7.6rem;
+}
+.fullwidth  {
+    width: 100%;
+}
+
+.buttom-signin {
+    margin-left: 30px;
+    
+}
+
+.buttom-signup {
+    margin-left: 85px;
+    
+}
